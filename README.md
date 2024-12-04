@@ -18,7 +18,7 @@ Click the button below to start a new development environment, though, if you wi
 6. Once the repo is created, edit the README file to change the URL of the "Open in Gitpod" button. The current URL reflects the author of this repo, you should change the username and the repo name so the button targets your new repository (in line 21 of this file). Once the changes are done, save the file by clicking on the button "Commit changes".
 7. Click on the button "Open in Gitpod":
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/green-onions/gitpod-starter)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com//theroshanchaudhari/roshan-drupal-module)
 
 Note: Once the environment has been created you'll find yourself inside of the project folder with DDEV already setup and the site installed.
 
